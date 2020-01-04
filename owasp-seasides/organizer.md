@@ -43,8 +43,6 @@
           <li><b>Aashish Kumar</b>
           </li>
         </ul>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
       </th>
     </tr>
   </thead>
