@@ -4,7 +4,7 @@ description: '27th February 09:00 AM - 6:00 PM IST'
 
 # Mobile App Security
 
-## First Half - 27th February 2019 \(9AM - 1PM\) _\*\*_
+## First Half - 27th February 2019 \(9AM - 1PM\) 
 
 **Android App Security Workshop**
 
