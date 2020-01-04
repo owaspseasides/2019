@@ -59,7 +59,7 @@ Android Application Penetration Testing Training is intended for students/profes
 
 **Trainer 2: Asha Muniyappa** is a Mobile application security researcher. She is a CEH certified professional and is responsible for innovating the mobile app security assets to ensure secure delivery of mobile apps. Her expertise is in Application Security, with key research areas of interest including Mobile Apps, Hacking. She is passionate to learn new techniques for attacking mobile apps and have been researching on performing attack simulations on the apps to determine and exploit security flaws.
 
-![](../.gitbook/assets/whatsapp-image-2019-01-10-at-16.03.33.jpeg)
+![](https://github.com/owaspseasides/2019/tree/d0fa465bae773e2ef507ace5d6a34922756fae25/.gitbook/assets/whatsapp-image-2019-01-10-at-16.03.33.jpeg)
 
 ## Second Half  - 27th February 2019 \(2PM - 6PM\)
 
@@ -109,7 +109,7 @@ This hands-on session will discuss recent case studies of critical findings in i
 
 **About Trainers**
 
-**Trainer 3: Swaroop Yermalkar** works as Lead Security Engineer and has authored the popular book “Learning iOS Pentesting” \([https://goo.gl/T8jvjJ](https://goo.gl/T8jvjJ)\). Swaroop also lead an open source project - OWASP iGoat \([https://igoatapp.com/](https://igoatapp.com/)\) which is developed for mobile security. He is one of the top bug bounty researchers worldwide, working with Cobalt.io \([https://app.cobalt.io/swaroopsy](https://app.cobalt.io/swaroopsy)\), Synack.inc. _\*\*_He has given talks and workshops at many security conferences including AppSec Israel, AppSec USA 2018, BruCON, SEC-T, EuropeanSec, Hacks in Taiwan \(HITCON\), GroundZero, c0c0n, 0x90, GNUnify. You can reach out to Swaroop at [@swaroopsy](https://twitter.com/swaroopsy).
+**Trainer 3: Swaroop Yermalkar** works as Lead Security Engineer and has authored the popular book “Learning iOS Pentesting” \([https://goo.gl/T8jvjJ](https://goo.gl/T8jvjJ)\). Swaroop also lead an open source project - OWASP iGoat \([https://igoatapp.com/](https://igoatapp.com/)\) which is developed for mobile security. He is one of the top bug bounty researchers worldwide, working with Cobalt.io \([https://app.cobalt.io/swaroopsy](https://app.cobalt.io/swaroopsy)\), Synack.inc. \_\*\*\_He has given talks and workshops at many security conferences including AppSec Israel, AppSec USA 2018, BruCON, SEC-T, EuropeanSec, Hacks in Taiwan \(HITCON\), GroundZero, c0c0n, 0x90, GNUnify. You can reach out to Swaroop at [@swaroopsy](https://twitter.com/swaroopsy).
 
 **Trainer 4: Shilpa Ranganatha** is an iOS application security researcher. She is a CEH certified professional and is responsible for innovating the mobile app security assets to ensure secure delivery of mobile apps. She is keen to expand her horizons and constantly strives to find zero-day vulnerabilities in client applications.
 

@@ -36,7 +36,7 @@ Today all vehicles are connected through V2X technologies. All manufacturers are
   * Fuzzing on USB stack 
   * USB interception for software update
 
-![](../.gitbook/assets/whatsapp-image-2019-01-05-at-02.39.41.jpeg)
+![](https://github.com/owaspseasides/2019/tree/d0fa465bae773e2ef507ace5d6a34922756fae25/.gitbook/assets/whatsapp-image-2019-01-05-at-02.39.41.jpeg)
 
 **About Trainer**
 
