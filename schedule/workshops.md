@@ -27,7 +27,7 @@ description: >-
 
 ## **Evening Talks**
 
-### [Day 1: 27 Feb 2019](https://www.owaspseasides.com/evening-talks/27th-february)
+### [Day 1: 27 Feb 2019](https://2019.owaspseasides.com/evening-talks/27th-february)
 
 ### [Day 2: 28 Feb 2019](https://2019.owaspseasides.com/evening-talks/28th-february)
 
