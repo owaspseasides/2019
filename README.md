@@ -1,6 +1,6 @@
 # About OWASP Seasides
 
-Welcome to the Annual OWASP SeaSides InfoSec event. Welcome to the Annual OWASP SeaSides InfoSec event.
+Welcome to the Annual OWASP SeaSides InfoSec conference.
 
 Through OWASP [Bangalore chapter](https://www.owasp.org/index.php/Bangalore) we aim to provide free of cost premium workshops and talks to all the participants. We plan to have Workshop on **26th to 28th Feb \(9:00 AM to 5:00 PM\)** and Beach-side talks in the Evening from on **27th Feb and 28th Feb \(7:00 PM to 10:00 PM\).** Mega beach side party on **2nd March**.
 
