@@ -35,6 +35,7 @@
           <li>Sheeraz Ali</li>
           <li>Amol Bhure</li>
           <li>Deepak Rathore</li>
+          <li>Setu Parimi</li>
           <li><b>Pankaj Upadhyay</b>
           </li>
           <li><a href="https://twitter.com/anantshri"><b>Anant Shrivastava</b></a>
